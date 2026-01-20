@@ -1,8 +1,8 @@
 # Sales Analytics System
 
-**Student Name:** Ravish Pandey  
-**Student ID:** bitsom_ba_25071413 
-**Email:** ravishpandey007@gmail.com  
+**Student Name:** aarushi hundal
+**Student ID:** bitsom_ba_25071553
+**Email:** aarushihundal53@gmail.com  
 **Date:** 20.01.2026  
 
 ## Project Overview
